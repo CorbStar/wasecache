@@ -1,1 +1,8 @@
-This is the basic files for my engineyard contest bots.
+This is the basic stuff for my engineyard contest bots.
+
+You need to have a working appengine-jruby set up.  Info here:
+
+http://code.google.com/p/appengine-jruby/wiki/InstallEverything
+
+Then fill in twitter account and bit.ly name and key info into the admin
+folder.  Enjoy!
